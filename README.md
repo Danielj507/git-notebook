@@ -7,6 +7,8 @@ Este documento contiene información sobre la herramienta de GIT
 ## github
 GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git.
 
+
+
 ## Contenido
 - [Sistemas de Control de versiones](#sistemas-de-control-de-versiones-)
 - [Que es GIT](#qué-es-git)
